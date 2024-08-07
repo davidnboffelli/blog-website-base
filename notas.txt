@@ -1,0 +1,12 @@
+Descargue la ultima imagen de mongodb de dockerhub
+modifiqué string de conexión mongodb en app.js (línea 20)
+agregué el método de "start" a la sección de scripts en package.json
+  "scripts": {
+    ...
+    "start": "node app.js"
+  },
+Creé Dockerfile e imagen de la app
+Creé docker-compose
+
+
+https://github.com/hitiksaini/blog-website-sample
